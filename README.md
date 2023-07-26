@@ -23,7 +23,9 @@ Clone this repository and import into **Xcode**
 ```bash
 git clone https://github.com/YourUsername/YourRepoName.git
 
-
+```
 
 ## ChatGPT Prompts history
+```
 https://chat.openai.com/share/b31dc227-9691-49c6-8d6a-9e771646876c
+```
